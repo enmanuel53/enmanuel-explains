@@ -1,0 +1,9 @@
+.aboutsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    width: 100%;
+    background-color: white;
+    font-size: large;
+    font-family: 'PT Mono';
+}
